@@ -10,3 +10,7 @@ Sprint 4 Intermediate Python Project
 - Multiple visualization types have been shown for a basic exploratory data analysis. 
 
 - Some of these visualtions have been integrated with the framework's various input methods to allow user interactivity. 
+
+- Had to add 'pyarrow==12.0.1' to requirements.txt to resolve issue when deploying to render. 
+
+Project URL: https://py-proj-repo-2.onrender.com/
