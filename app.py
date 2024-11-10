@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv(r"C:\Users\scott\Documents\GitHub\Py_Proj_repo\vehicles_us.csv")
+df = pd.read_csv("vehicles_us.csv")
 
 # Function creations: 
 # Will be passed to df's model column to only get the first word for the manufacterers
