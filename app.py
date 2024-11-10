@@ -1,9 +1,13 @@
 # Import needed packages 
 import streamlit as st
+import os
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv("vehicles_us.csv")
+# df = pd.read_csv("vehicles_us.csv")
+
+file_path = os.path.join(os.path.dirname(__file__), "vehicles_us.csv")
+df = pd.read_csv(file_path)
 
 # Function creations: 
 # Will be passed to df's model column to only get the first word for the manufacterers
