@@ -14,4 +14,5 @@ Sprint 4 Intermediate Python Project
 - Had to add 'pyarrow==12.0.1' to requirements.txt to resolve issue when deploying to render. 
 
 Project URL: https://py-proj-repo-2.onrender.com/
-Notebooko Viewer for workaround to large file issue in GitHub: https://mybinder.org/v2/gh/FunctionallyLazy/Py_Proj_repo/main
+
+Notebook Viewer for workaround to large file issue in GitHub: https://mybinder.org/v2/gh/FunctionallyLazy/Py_Proj_repo/main
