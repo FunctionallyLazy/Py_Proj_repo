@@ -1,0 +1,4 @@
+Hello, regarding the GitHub issue. It seems the notebook file is too large. I was able to find a tool called binder which is able to render the notebook without having to locally install and run the file itself. 
+https://mybinder.org/v2/gh/FunctionallyLazy/Py_Proj_repo/main
+
+If this is not an acceptable method of submission, please let me know so i may investigate alternatives, as it seems GitHub does not like the rich format of the Plotly-express library. 
